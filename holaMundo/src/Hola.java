@@ -3,7 +3,7 @@ public class Hola
 {
 	public void prueba()
 	{
-		System.out.println("Probando");
+		System.out.println("Probando1");
 		System.out.println("Mierda");
 		System.out.println("AHHHHHHHHH");
 		System.out.println("HOLA");
