@@ -19,4 +19,9 @@ public class Hola
 		System.out.println("Tara");
 		
 	}
+	public void remoto4()
+	{
+		System.out.println("Tara");
+		
+	}
 }
