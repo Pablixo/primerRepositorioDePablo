@@ -14,8 +14,9 @@ public class Hola
 		System.out.println("Cambiando remotamente");
 	}
 
-	public void remoto2()
+	public void remoto3()
 	{
-		System.out.println("Cambiando remotamentedfsdfs");
+		System.out.println("Tara");
+		
 	}
 }
