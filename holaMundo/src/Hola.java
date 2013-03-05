@@ -12,6 +12,7 @@ public class Hola
 	public void Version2()
 	{
 		System.out.println("caca");
+		System.out.println("caca2");
 	}
 
 }
