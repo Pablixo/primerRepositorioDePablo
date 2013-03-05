@@ -9,19 +9,9 @@ public class Hola
 		System.out.println("HOLA");
 		System.out.println("CAMBIANDO CON ADELAY");
 	}
-	public void remoto()
+	public void Version2()
 	{
-		System.out.println("Cambiando remotamente");
+		System.out.println("caca");
 	}
 
-	public void remoto3()
-	{
-		System.out.println("Tara");
-		
-	}
-	public void remoto4()
-	{
-		System.out.println("Tara");
-		
-	}
 }
