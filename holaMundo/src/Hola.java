@@ -15,4 +15,9 @@ public class Hola
 		System.out.println("caca2");
 	}
 
+	public void Version3()
+	{
+		System.out.println("caca");
+		System.out.println("caca2");
+	}
 }
